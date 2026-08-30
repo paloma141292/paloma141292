@@ -32,7 +32,6 @@ Minha atuação:
 Um dos principais desafios do projeto foi substituir uma etapa de aprovação separada por um fluxo de conferência integrado ao próprio relatório.
 
 Resultado:
-
 ✅ menos telas  
 ✅ melhor experiência do usuário  
 ✅ rastreabilidade das ações  
