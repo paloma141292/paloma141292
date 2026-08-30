@@ -1,19 +1,23 @@
-## Hi there 👋
-# 👋 Olá, eu sou Paloma Ana
+👋 Olá, eu sou Paloma Ana
 
-## Product Manager & Product Owner
-### Transformando necessidades de negócio em soluções digitais com IA
+Product Manager & Product Owner
 
-Atuo na conexão entre **negócios, processos, tecnologia e Inteligência Artificial**, transformando necessidades reais em soluções digitais estruturadas.
+Transformando necessidades de negócio em soluções digitais com IA.
 
-Minha atuação envolve:
+Minha atuação conecta:
 
-- 🧠 Estratégia e visão de produto
-- 📌 Levantamento e modelagem de regras de negócio
-- 🔎 Análise e melhoria de processos
-- 🤖 Uso de Inteligência Artificial aplicada à criação de soluções
-- 📊 Validação de fluxos e experiência do usuário
+🧠 Estratégia de Produto
+📌 Regras de Negócio
+🔎 Processos
+🤖 Inteligência Artificial
+💻 Tecnologia
 
+---
+
+🚀 Projetos em destaque
+
+📌 Sistema JD Ivone
+...
 ---
 
 # 🚀 Projetos em destaque
