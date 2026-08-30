@@ -10,7 +10,7 @@ Atuo conectando:
 🔎 Análise de Processos
 🤖 Inteligência Artificial aplicada
 💻 Soluções Digitais
-
+---
 🚀 Projetos em destaque
 
 📌 Sistema JD Ivone
