@@ -10,8 +10,9 @@ Atuo conectando:
 🔎 Análise de Processos
 🤖 Inteligência Artificial aplicada
 💻 Soluções Digitais
+
 ---
-🚀 Projetos em destaque
+**Projetos em destaque**
 
 📌 Sistema JD Ivone
 Sistema de gestão de frequência, relatórios e conferência de processos.
