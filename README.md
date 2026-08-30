@@ -6,15 +6,10 @@ Transformando necessidades de negócio em soluções digitais com IA.
 
 Atuo conectando:
 🧠 Estratégia de Produto
-
 📌 Regras de Negócio
-
 🔎 Análise de Processos
-
 🤖 Inteligência Artificial aplicada
-
 💻 Soluções Digitais
----
 
 🚀 Projetos em destaque
 
