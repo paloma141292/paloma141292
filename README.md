@@ -12,10 +12,13 @@ Atuo conectando:
 💻 Soluções Digitais
 
 ---
-**Projetos em destaque**
+## 🚀 Projetos em destaque
 
-📌 Sistema JD Ivone
+### 📌 Sistema JD Ivone
+
 Sistema de gestão de frequência, relatórios e conferência de processos.
+
+Projeto desenvolvido a partir de uma necessidade real de organização e digitalização de processos.
 
 Minha atuação:
 - definição de regras de negócio;
